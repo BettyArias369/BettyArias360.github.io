@@ -1,0 +1,43 @@
+.container{
+    width: 90%;
+    height: 100%;
+}
+.header,.footer{
+    width: 90%;
+    height: 30px;
+    background-color: aqua;
+}
+.main-conten{
+    width: 90%;
+    height: 1200px;
+    background-color: bisque;
+    margin: 10px;
+    text-align: center;
+}
+.box1{
+    width: 30%;
+    height: 400px;
+    background-color: aquamarine;
+    margin: 10px;
+    float:left;
+    margin-left: 100px;
+}
+.box2{
+    width: 40%;
+    height: 800px;
+    background-color: antiquewhite;
+    margin: 10px;
+    float:left;
+
+}
+.box3{
+    width: 30%;
+    height: 400px;
+    background-color: aquamarine;
+    margin: 10px;
+    float:left;
+    margin-top: -400px;
+    margin-left: 100px;
+}
+
+

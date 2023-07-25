@@ -1,0 +1,71 @@
+.container{
+    width: 80%;
+    height: 90%;
+    background-color: rgb(216, 239, 239);
+    align-items: center;
+}
+
+.header{
+    background-color: rgb(131, 237, 202);
+    margin: 5%;
+    padding: 20px;
+}
+.main-content{
+    background-color: rgb(198, 160, 234);
+    height: 90%;
+    margin: 5%;
+    padding: 10px;
+}
+
+.footer{
+    background-color: rgb(205, 169, 122);
+    margin: 5%;
+    padding: 20px;
+}
+
+
+.section1{
+    background-color: aquamarine;
+    width: 80%;
+    height: 30%;
+    margin: 20px;
+    padding: 20px;
+}
+
+.btn1{
+   background-color: rgb(206, 206, 100);
+   color:black;
+   font-size: 15px;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+   font-weight: bold;
+   border-radius: 50px;
+   width: 120px;
+   height: 40px;
+   border:2px solid black;
+}
+
+.btn2{
+    background-color: blue;
+    color: aliceblue;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    border-radius: 50px;
+    width: 120px;
+    height: 40px;
+    border: 2px solid black;
+}
+
+.btn3{
+    background-color:brown;
+    color:azure;
+    font-size: 15px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight:lighter;
+    border-radius: 50px;
+    width: 120px;
+    height: 40px;
+    border: 2px solid black;
+}
+
+
